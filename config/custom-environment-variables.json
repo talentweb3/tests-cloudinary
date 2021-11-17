@@ -1,0 +1,15 @@
+{
+  "db": "getit_db",
+  "jwtPrivateKey": "getit_jwtprivateKey",
+  "clou_name":"getit_cname",
+  "clou_secret":"getit_secret",
+  "clou_key":"getit_key"
+}
+
+
+
+
+
+
+
+
